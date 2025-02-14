@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 ### Projects:
-- [<img align="left" alt="StrideMC" width="52px" src="https://cdn.discordapp.com/attachments/755488771306291211/1033161266463768586/mythmcl.png">**MythMC**](https://stridemc.pl/) - server minecraft
+- [<img align="left" alt="StrideMC" width="52px" src="[https://cdn.discordapp.com/attachments/755488771306291211/1033161266463768586/mythmcl.png](https://cdn.discordapp.com/attachments/1329959926117695650/1339925828720660561/th_2.png?ex=67b07eac&is=67af2d2c&hm=90797bc6d5f335244318b0a9d4e3e7637ce5ab65ffd1952b7b59e16ff463a391&)">**StrideMC**](https://stridemc.pl/) - server minecraft
 - version 1.21.4
 
 ### Programming Languages:
